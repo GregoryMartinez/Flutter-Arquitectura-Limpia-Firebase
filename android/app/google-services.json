@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047896381504",
+    "project_id": "issel-food",
+    "storage_bucket": "issel-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047896381504:android:398011e298654533fae7a5",
+        "android_client_info": {
+          "package_name": "isselelectronics.com.issel_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047896381504-sc03a4sevj8avedefhgb99f0nm2tblek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35-kN9pDfUbb0ie5J7gjhm_d7m8_3pR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047896381504-sc03a4sevj8avedefhgb99f0nm2tblek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
